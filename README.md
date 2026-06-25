@@ -69,13 +69,6 @@ Student Management System
 
 ---
 
-## 👨‍💻 Author
-**Siraj Mohammad**  
-GitHub: https://github.com/Sirajmohammad03
-  
-
----
-
 ## 🧩 Database Schema
 ```md
 ```sql
